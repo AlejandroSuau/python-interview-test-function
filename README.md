@@ -6,7 +6,7 @@ i.e.
 list = [a, b, c] 
 
 
-Returns a list in which each element is the result of the product of the remaining elements of the array
+Returns a list in which each element is the result of the product of the remaining elements of the array:
 
 i.e. 
 result = [b * c, a * c, a * b]
