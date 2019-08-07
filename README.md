@@ -11,5 +11,7 @@ i.e.
 result = [b * c, a * c, a * b]
 
 Real example:
+
 list = [1, 5, 7]
+
 result = [35, 7, 5]
